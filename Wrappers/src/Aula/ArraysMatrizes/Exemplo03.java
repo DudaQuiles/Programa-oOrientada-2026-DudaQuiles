@@ -2,6 +2,8 @@ package Aula.ArraysMatrizes;
 
 public class Exemplo03 {
     public static void main(String [] args){
+        //REAGGED ARRAYS:
+        //A classe ArrayList permite a alocação dinâmica(insere e retira conforme necessário)
         int [][] valores = new int[3][];
 
         //valores = linhas; new int = colunas;
