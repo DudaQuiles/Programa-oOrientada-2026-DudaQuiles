@@ -1,4 +1,4 @@
-package aula;
+package Aula;
 
 import java.math.BigInteger;
 import java.util.Scanner;

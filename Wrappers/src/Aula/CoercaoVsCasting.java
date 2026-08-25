@@ -1,9 +1,7 @@
-package aula;
+package Aula;
 
 public class CoercaoVsCasting {
     public static void main (String [] args){
-        public class CoercaoVsCasting {
-            public static void main(String[] args) {
                 long populacaoCidade = 1_500_000; // (1)
                 int votosApurados = 1_499_999;
                 long totalGeral = votosApurados; // (2)
@@ -21,13 +19,12 @@ public class CoercaoVsCasting {
                 double mediaFinal = 7.8;
                 int mediaParaAprovacao = (int) mediaFinal; // (7)
                 
-                20 System.out.println("populacaoCidade = " + populacaoCidade);
-                21 System.out.println("totalGeral = " + totalGeral);
-                22 System.out.println("notaFinal = " + notaFinal);
-                23 System.out.println("saldoEmCentavosAproximado = " + saldoEmCentavosAproximado);
-                24 System.out.println("totalCompra = " + totalCompra);
-                25 System.out.println("mediaParaAprovacao = " + mediaParaAprovacao);
-                26 }
-27 }
-    }
-}
+                 System.out.println("populacaoCidade = " + populacaoCidade);
+                 System.out.println("totalGeral = " + totalGeral);
+                 System.out.println("notaFinal = " + notaFinal);
+                 System.out.println("saldoEmCentavosAproximado = " + saldoEmCentavosAproximado);
+                 System.out.println("totalCompra = " + totalCompra);
+                 System.out.println("mediaParaAprovacao = " + mediaParaAprovacao);
+                 }
+        }
+
